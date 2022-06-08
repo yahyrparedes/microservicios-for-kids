@@ -58,7 +58,7 @@ Luego de completar ejecutar los proyectos podemos observar lo siguiente
 
 ![Hacemos ping a categorias desde productos](./recursos/ms-product-category-ping.png)
 
-4. Vamos a traer el detalle de una categoria desde el microservicio de productos  http://127.0.0.1:8081/products/categories/1
+4. Vamos a traer el detalle de una categoria desde el microservicio de productos http://127.0.0.1:8081/products/categories/1
 
 ![Consultamos una categoriua atravez de productos](./recursos/ms-product-category-id.png)
 
@@ -69,7 +69,7 @@ Luego de completar ejecutar los proyectos podemos observar lo siguiente
 
 ### Refleccion:
 **La idea del ejercicio es monstrarnos como funciona el services registry usando EUREKA SERVER y tambien 
-la comunicacion de microservicios sin perder el poder de escalamiento haceindo una cominicacion dinamica entre microservicios.**
+la comunicacion de microservicios sin perder el poder de escalamiento haciendo una comunicacion dinamica entre microservicios.**
 <br/>
 
 ### Descripcion del caso practico:
