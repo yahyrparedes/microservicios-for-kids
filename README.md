@@ -77,7 +77,7 @@ Luego de completar ejecutar los proyectos podemos observar lo siguiente
 ![Traemos el detalle de una categoria](./recursos/ms-category-id.png)
 <br/>
 
-### Refleccion:
+### Reflexión:
 **La idea del ejercicio es monstrarnos como funciona el services registry usando EUREKA SERVER y tambien 
 la comunicacion de microservicios sin perder el poder de escalamiento haciendo una comunicacion dinamica entre microservicios.**
 <br/>
