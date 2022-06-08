@@ -8,7 +8,7 @@
 - visual studio code 
 - InteliJ IDEA
 
-### Despliegue :
+## Despliegue :
 Como se pudo apreciar en clases tenemos que levantar 3 aplicaciones 
 1. ms-product (java - spring boot - eureka client )
 2. ms-category (nodejs - expressjs - simple eureka js)
