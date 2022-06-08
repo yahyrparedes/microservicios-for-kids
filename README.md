@@ -8,6 +8,16 @@
 - visual studio code 
 - InteliJ IDEA
 
+
+
+### Descripcion del caso practico:
+
+Se diseñaron 2 microservicios, mscategory ( Escrito en NodeJS ) y msproduct ( Escrito en Java Spring Boot ), estos servicios se registran en un servidor Eureka lo que permite su descubrimiento mutuo y comunicacion, segun el diagrama de arquitectura basica de microservicios expuesta en la sesion teorica.
+
+![](https://user-images.githubusercontent.com/864790/172711982-f36a22cf-f7f5-4b3f-9064-ecafa535277a.png)
+
+
+
 ## Despliegue :
 Como se pudo apreciar en clases tenemos que levantar 3 aplicaciones 
 1. ms-product (java - spring boot - eureka client )
@@ -71,13 +81,6 @@ Luego de completar ejecutar los proyectos podemos observar lo siguiente
 **La idea del ejercicio es monstrarnos como funciona el services registry usando EUREKA SERVER y tambien 
 la comunicacion de microservicios sin perder el poder de escalamiento haciendo una comunicacion dinamica entre microservicios.**
 <br/>
-
-### Descripcion del caso practico:
-
-Se diseñaron 2 microservicios, mscategory ( Escrito en NodeJS ) y msproduct ( Escrito en Java Spring Boot ), estos servicios se registran en un servidor Eureka lo que permite su descubrimiento mutuo y comunicacion, segun el diagrama de arquitectura basica de microservicios expuesta en la sesion teorica.
-
-![](https://user-images.githubusercontent.com/864790/172711982-f36a22cf-f7f5-4b3f-9064-ecafa535277a.png)
-
 
 ## Asignación
 
