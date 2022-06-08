@@ -38,7 +38,7 @@ Como se pudo apreciar en clases tenemos que levantar 3 aplicaciones
 ![Vemos que el servicio esta corriendo](./recursos/ms-product-ping.png)
 
 
-#### ms-product
+#### ms-category
 1. Abrimos el proyecto en visual studio code
 2. Instalamos las dependecias de node
 3. Ejecutamos el proyecto (tener cuidado con el puerto **3000**)
