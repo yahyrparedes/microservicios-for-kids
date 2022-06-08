@@ -11,7 +11,7 @@ public class PingController {
 
     @GetMapping("/ping")
     private String index() {
-        return "{status: 'ok', ms: 'ms-product'})";
+        return "{status: 'ok', ms: 'ms-product'}";
     }
 
 
