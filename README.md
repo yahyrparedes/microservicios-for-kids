@@ -13,4 +13,4 @@ Se diseñaron 2 microservicios, mscategory ( Escrito en NodeJS ) y msproduct ( E
 
 ## Asignacion
 
-Escribir un microservicio en el lenguaje de su preferencia que tambien se registre en el servidor de registro eureka.
+Escribir un microservicio en el lenguaje de su preferencia que tambien se registre en el servidor de registro eureka para que sea descubrible por los otros microservicios.
